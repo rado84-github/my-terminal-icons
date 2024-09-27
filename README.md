@@ -4,8 +4,7 @@ This repository is for custom terminal icons, designed by rado84-github,
 
 add them to your system to give your desktop a custom look!
 
-## I have no idea how to make github to generate a new readme.md file with updated links to each icons.
-## Until I do or someone knowing and willing tells me how to do that, the links in this file will be invalid.
+## I have no idea how to make github to generate a new readme.md file with updated links to each icons. Until I do or someone knowing and willing tells me how to do that, the links in this file will be invalid. If you wanna see each icon, you better open it directly from /my-terminal-icons.
 
 ## ICONS
 
